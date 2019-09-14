@@ -6,7 +6,8 @@ class ToyRobot
     end
     
     def move(x: 0, y: 0)
-        position[0] += x
-        position[1] += y
+        # position[0] += x
+        # position[1] += y
     end
+
 end
