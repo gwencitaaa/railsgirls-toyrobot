@@ -1,2 +1,6 @@
 --require spec_helper
+<<<<<<< HEAD
 --format documentation
+=======
+--format documentation
+>>>>>>> 8828a94164ff5597274b9b73b03022a9af8c18be
